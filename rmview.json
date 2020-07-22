@@ -1,0 +1,15 @@
+{
+  "ssh": {
+    "address": "192.168.0.152",
+    "username": "root",
+    "key": "~/.ssh/id_rsa_remarkable",
+    "timeout": 1
+  },
+  "orientation": "auto",
+  "pen_size": 15,
+  "pen_color": "red",
+  "pen_trail": 250,
+  "background_color": "white",
+  "fetch_frame_delay": 0,
+  "hide_pen_on_press": true
+}
