@@ -23,7 +23,7 @@ The version of rMview made to work with a VNC server can be found at the `vnc` b
 
 1. Configure by tweaking the `rmview.json` config
 
-   ```json
+   ```js
    {
      // all settings are optional, comments not allowed
      "ssh": {
