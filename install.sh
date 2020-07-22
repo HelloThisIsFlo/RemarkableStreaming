@@ -5,5 +5,6 @@ git submodule update --init
 cd $DIR/rmview
 git checkout vnc
 cd ..
+pip install pipenv
 pipenv install
 pipenv run pyrcc5 -o $DIR/rmview/src/resources.py $DIR/rmview/resources.qrc
