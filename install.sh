@@ -7,5 +7,3 @@ git checkout vnc
 cd ..
 pipenv install
 pipenv run pyrcc5 -o $DIR/rmview/src/resources.py $DIR/rmview/resources.qrc
-
-You now need to run the setup process on the remarkable. See read forget to run the setup
