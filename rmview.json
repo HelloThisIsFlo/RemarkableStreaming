@@ -5,7 +5,7 @@
     "key": "~/.ssh/id_rsa_remarkable",
     "timeout": 1
   },
-  "orientation": "auto",
+  "orientation": "portrait",
   "pen_size": 15,
   "pen_color": "red",
   "pen_trail": 250,
